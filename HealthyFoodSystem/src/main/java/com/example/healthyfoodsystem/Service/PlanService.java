@@ -45,7 +45,6 @@ public class PlanService {
         oldPlan.setPrice(plan.getPrice());
         oldPlan.setRestaurantId(plan.getRestaurantId());
         oldPlan.setDescription(plan.getDescription());
-        oldPlan.setGoalId(plan.getGoalId());
         oldPlan.setCalories(plan.getCalories());
         oldPlan.setMealsPerDay(plan.getMealsPerDay());
 
