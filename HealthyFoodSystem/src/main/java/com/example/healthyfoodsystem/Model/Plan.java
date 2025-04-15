@@ -49,9 +49,7 @@ public class Plan {
     @Column(columnDefinition = "int not null")
     private Integer restaurantId;
 
-    @NotNull
-    @Column(columnDefinition = "int not null")
-    private Integer goalId;
+
 
 
 }
